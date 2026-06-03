@@ -1,0 +1,3 @@
+display_name: "Laravel AdminLTE Theme"
+short_description: "Install AdminLTE Blade theme from a local folder or ZIP."
+default_prompt: "Apply the AdminLTE Laravel theme to this Laravel project using the local adminlte-laravel-master folder source."
